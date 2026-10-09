@@ -13,7 +13,7 @@
 
 
 public class Problema1_5 {
-    private static double PI = 3.1416;
+    private static final double PI = 3.1416;
 
     public static void main(String[] args) { // INICIO
         double radio = 20;
