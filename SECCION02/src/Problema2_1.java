@@ -22,6 +22,6 @@ public class Problema2_1 {
             // Impresion de datos
             System.out.println("La temperatura es " + temperatura);
         }
-        
+
     } // FIN
 }
